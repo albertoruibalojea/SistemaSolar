@@ -28,5 +28,5 @@ Lista de características del proyecto:
 ## Estado
 Este proyecto se encuentra finalizado desde 2020.
 
-## Contact
+## Contacto
 Creado por [@albertoruibalojea](https://github.com/albertoruibalojea).
